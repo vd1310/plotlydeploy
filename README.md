@@ -6,15 +6,13 @@
 ###### 2. Bubble chart to display bacteria cultures per sample
 ###### 3. Gauge chart to display the weekly washing frequency's value
 
-#### Results: The webpage allows users to enter the otuids and then display the results in bar chart, bubble chart abd gauge chart
-#### Customaiztions added:
+#### Results: The webpage allows users to enter the otuids and then display the results in bar chart, bubble chart and gauge chart
+#### Customizations added:
 ##### Image added to jumbotron
 ##### Background color added
 ##### Font color changed in jumbotron
 ##### Information about each graph visualizes, under graphs added.
-##### mobile responsve
+##### mobile responsive
 
-##### When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and all three charts are pouplated according to the requirements when a sample is selected from the dropdown menu
+##### When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and all three charts are populated according to the requirements when a sample is selected from the dropdown menu
 ![image](https://github.com/vd1310/plotlydeploy/blob/main/webpage%20default.PNG)
-
-
