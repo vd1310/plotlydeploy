@@ -1,4 +1,6 @@
 # plotlydeploy
+## page link: https://vd1310.github.io/plotlydeploy/
+
 ## Overview of Project
 #### The purpose of this project is to visualize the bacterial data for each volunteer and identify the top 10 bacterial species in their belly buttons.
 ##### This page provides dynamic selection option to user and displays the following charts on the page as per the selected id:
